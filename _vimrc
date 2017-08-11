@@ -9,6 +9,8 @@ filetype plugin indent on
 set lbr
 set tw=200
 
+"just test
+
 set fileencodings=utf-8,chinese,latin-1
 set termencoding=utf-8
 set encoding=utf-8
